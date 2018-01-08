@@ -1,0 +1,19 @@
+/*Imports*/
+@import url(styles.css);
+@import url(layout.css);
+
+@font-face{
+    font-family: "Inconsolata";
+    src: url(".../font/Inconsolata/Inconsolata.ttf")
+}
+
+/*Uncomment to use the Google API version*/
+/*@import url('https://fonts.googleapis.com/css?family=Inconsolata');*/
+
+*
+{
+    font-family: 'Inconsolata', monospace;
+    color: white;
+    background-color: #1a1a1a;
+    font-weight: lighter;
+}
