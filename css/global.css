@@ -1,6 +1,7 @@
 /*Imports*/
 @import url(styles.css);
 @import url(layout.css);
+@import url(mobile-styles.css);
 
 @font-face{
     font-family: "Inconsolata";
