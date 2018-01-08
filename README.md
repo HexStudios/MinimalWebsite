@@ -1,8 +1,6 @@
 # MinimalWebsite
 #### This is a template for a minimalist website. It uses white text over a nice basic dark-grey background, and some simple design practices. 
 
-Features:
-A simple one-page design to show most relevant content on one page.
-(More to come)
+[View the website here](https://hexstudios.github.io/MinimalWebsite/)
 
-Please view the road-map to stay up to date with development.
+Please view the [road map](https://github.com/HexStudios/MinimalWebsite/projects/1) to stay up to date with development.
