@@ -13,6 +13,7 @@
     /*------------------*/
     #main-content{
         width: 100%;
+        font-size: 10pt;
     }
     #about div{
         width: 98%;
@@ -20,5 +21,7 @@
         margin: 0;
         text-align: center;
         padding: 1%;
+    } #about div img{
+        
     }
 }

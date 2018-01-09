@@ -56,6 +56,17 @@ BEGIN MAIN-CONTENT STYLES
     width: 48%;
     float: left;
     margin: 1%;
+} #about div span{
+    width: 50%;
+    height: auto;
+    float: left;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+} #about div span img{
+    width: 100px;
+    height: 100px;
+    margin: auto;
 }
 /*
 ----------------------
