@@ -1,3 +1,8 @@
+/*
+----------------------
+BEGIN HEADER STYLES
+----------------------
+*/
 header::after{
     display: block;
     content: "";
@@ -22,3 +27,39 @@ header::after{
 } header{
     margin-bottom: 100px;
 }
+/*
+----------------------
+END HEADER STYLES
+----------------------
+*/
+/*=====================================================*/
+/*
+----------------------
+BEGIN MAIN-CONTENT STYLES
+----------------------
+*/
+#main-content{
+    width: 80%;
+    height: auto;
+    margin: auto;
+} #main-content h2{
+    text-align: center;
+} #main-content::after{
+    display: block;
+    content: "";
+    clear: both;
+}
+
+#about{
+    
+} #about div{
+    width: 48%;
+    float: left;
+    margin: 1%;
+}
+/*
+----------------------
+END MAIN-CONTENT STYLES
+----------------------
+*/
+/*=====================================================*/

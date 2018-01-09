@@ -1,4 +1,4 @@
-@media screen and (max-width: 480px){
+@media screen and (max-width: 800px){
     /*Header-nav*/
     #mobile-nav-hr{
         display: block;
@@ -11,4 +11,14 @@
     margin-bottom: 0px;
     }
     /*------------------*/
+    #main-content{
+        width: 100%;
+    }
+    #about div{
+        width: 98%;
+        float: none;
+        margin: 0;
+        text-align: center;
+        padding: 1%;
+    }
 }
